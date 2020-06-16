@@ -10,4 +10,5 @@ Currently includes simulation of -
 
 You can get detailed explanations of these algorithms at - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 
-Thanks to [Ethan Fung](https://codepen.io/EthanEFung) for starter code.
+# Acknowledgement
+- Used [Ethan Fung's](https://codepen.io/EthanEFung) CSS code for reference. Thanks a ton!
