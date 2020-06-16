@@ -9,3 +9,5 @@ Currently includes simulation of -
 3. Selection Sort
 
 You can get detailed explanations of these algorithms at - [GeeksForGeeks](https://www.geeksforgeeks.org/)
+
+Thanks to [Ethan Fung](https://codepen.io/EthanEFung) for starter code.
